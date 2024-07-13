@@ -55,7 +55,8 @@ I’m  Tech maniac, Writer, Anime Lover and Streamer. Jock of many trades master
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
- - 
+
+ [![Kofi](https://img.shields.io/badge/Kofi-F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aleytiafairlight)
 
 
 ## 👯 Some of my projects:
