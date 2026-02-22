@@ -50,7 +50,7 @@ I’m  Tech maniac, Writer, Anime Lover and Streamer. Jock of many trades master
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleytiaFairlight&layout=compact&hide=lua&theme=dracula&hide_border=true">
 
-<img align="left" src=""https://github-readme-stats-aleytia.vercel.app/api/top-langs/?username=AleytiaFairlight&layout=compact&hide=lua&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats-aleytia.vercel.app/api/top-langs/?username=AleytiaFairlight&layout=compact&hide=lua&theme=dracula&hide_border=true">
 
 ## 💰 Buy me a Coffee
 
