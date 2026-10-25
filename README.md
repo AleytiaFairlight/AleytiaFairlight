@@ -64,7 +64,7 @@ I’m  Tech maniac, Writer, Anime Lover and Streamer. Jock of many trades master
 ## 👯 Some of my projects:
 
 <p>
-  <a href="https://github.com/AleytiaFairlight/EclipseNetwork"><img width="49%" src="cards/pin-EclipseNetwork.svg" /></a>
-  <a href="https://github.com/AleytiaFairlight/5eTools"><img width="49%" src="cards/pin-5eTools.svg" /></a>
-  <a href="https://github.com/AleytiaFairlight/Dahlia"><img width="49%" src="cards/pin-Dahlia.svg" /></a>
+  <a href="https://github.com/AleytiaFairlight/EclipseNetwork"><img align="top" width="49%" src="cards/pin-EclipseNetwork.svg" /></a>
+  <a href="https://github.com/AleytiaFairlight/5eTools"><img align="top" width="49%" src="cards/pin-5eTools.svg" /></a>
+  <a href="https://github.com/AleytiaFairlight/Dahlia"><img align="top" width="49%" src="cards/pin-Dahlia.svg" /></a>
 </p>
