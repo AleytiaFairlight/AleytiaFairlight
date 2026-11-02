@@ -30,6 +30,18 @@ I’m  Tech maniac, Writer, Anime Lover and Streamer. Jock of many trades master
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vuedotjs&logoColor=fff)
+![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=fff)
+![GDScript](https://img.shields.io/badge/-GDScript-478cbf?style=flat-square&logo=godotengine&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
+![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=swift&logoColor=fff)
+![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnubash&logoColor=fff)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391fe?style=flat-square&logo=gnometerminal&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-cc2927?style=flat-square&logo=databricks&logoColor=fff)
 
 ## ⚡ Database
 
